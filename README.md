@@ -157,6 +157,6 @@ Contributions are welcome! To contribute to the project:
 
 Have questions or suggestions? Feel free to reach out to:
 
-- **Email**: moulyahegde2004@gmail.com
-- **GitHub**: Moulya-Hegde
+- **Email**: manushivuz5@gmail.com
+- **GitHub**: Manushivuz
 
